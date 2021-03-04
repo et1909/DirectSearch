@@ -20,9 +20,8 @@ Requirement:
 <pre>sudo apt-get install grep</pre>
 
 Usage:
-URL:
-<Put your URL fisrt>
+<pre> Request URL:  </pre>
 Wordlist:
-<Put yout wordlist>
+<pre> Request Wordlist:  </pre>
   
 Wait till it does the work for you.
