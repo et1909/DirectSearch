@@ -1,6 +1,6 @@
 # DirectSearch
 
-Tool that helps you:
+<b>Tool that helps you:</b>
  
 1. Search directories of a specified target
 2. Let you put a custom wordlist
@@ -9,19 +9,19 @@ Tool that helps you:
 5. Will tell you the exact Request Code for each link
 6. Native commands used from Bash.
 
-Improvement:
+<b>Improvement:</b>
 
 I am working on the code itself and if anyone thinks something can be better
 or has to be chnaged please do let me know. Will be really glad.
 
-Requirement:
+<b>Requirement:</b>
 
 <pre>sudo apt-get install curl</pre>
 <pre>sudo apt-get install grep</pre>
 
-Usage:
+<b>Usage:</b>
 <pre> Request URL:  </pre>
-Wordlist:
 <pre> Request Wordlist:  </pre>
   
-Wait till it does the work for you.
+<b>Wait till it does the work for you.</b>
+Please Leave a comment as to how do you think I can make it better.
